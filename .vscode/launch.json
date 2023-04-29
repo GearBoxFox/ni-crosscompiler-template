@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "ARM (gdb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/template.exe"
+        ,
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": ".",
+        "environment": [],
+        "showDisplayString": true,
+        "MIMode": "gdb",
+        "miDebuggerPath": "C:/build/18.0/arm/oecore-i686-cortexa9-vfpv3-toolchain-6.0/sysroots/i686-nilrtsdk-mingw32/usr/bin/arm-nilrt-linux-gnueabi/arm-nilrt-linux-gnueabi-gdb.exe",
+        "miDebuggerServerAddress": "172.22.11.2:92"
+      }
+    ]
+  }

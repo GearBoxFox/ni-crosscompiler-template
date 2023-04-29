@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "C:/Users/lboog/Documents/ni-crosscompiler-template/build",
+    "cmake.generator": "Ninja",
+    "C_Cpp.errorSquiggles": "disabled"
+}
